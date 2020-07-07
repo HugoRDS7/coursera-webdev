@@ -1,6 +1,6 @@
 ##  Johns Hopkins University - Coursera: HTML, CSS, and Javascript for Web Developers
 
-This are the assignemnts of the "HTML, CSS, and Javascript for Web Developers". You can see my submissions for the 4 assignments of the course.
+These are the assignments of the "HTML, CSS, and Javascript for Web Developers". You can see here my submissions for the 4 assignments of the course.
 
 
 * [Week 2]: Introduction to CSS3 
