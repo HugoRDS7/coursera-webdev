@@ -1,0 +1,14 @@
+section {
+  background-color: #E6671E;
+  padding: 5px 20px;
+  margin: 10px;
+}
+.navbar
+{
+	background-image: linear-gradient(to right,#F9CE0E,#ff9933);
+	padding: 0 !important;
+}
+.navbar-brand 
+{
+	font-weight: bold;
+}
